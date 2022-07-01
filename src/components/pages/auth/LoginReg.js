@@ -1,7 +1,7 @@
 import { Grid, Card, Tabs, Typography, Tab, Box } from '@mui/material';
 import { useState } from 'react';
 import Pic1 from '../../../images/pic1.jpg'
-import Registration from './Singup';
+import Registration from './Registration';
 import UserLogin from './UserLogin';
 import { ShoppingBag } from '@mui/icons-material';
 
